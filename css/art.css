@@ -1,0 +1,20 @@
+body{
+
+}
+img{
+    width: 100%;
+    display: relative;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: mediumpurple;
+}
+
+p{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 1cm;
+    background-color: hsla(235, 51%, 80%,1);
+    border-radius: 25px;
+
+}

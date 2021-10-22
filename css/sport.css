@@ -1,0 +1,12 @@
+body{
+
+}
+img{
+    width: 100%;
+    display: relative;
+}
+p{
+    margin-left: 1cm;
+    background-color: hsl(100, 18%, 77%);
+    border-radius: 20px;
+}
